@@ -266,6 +266,7 @@
                                 "sku": {
                                     "name": "[parameters('omsSku')]"
                                 }
+                                
                             }
                         }
                     ]
